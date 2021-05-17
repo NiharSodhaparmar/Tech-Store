@@ -47,3 +47,7 @@ body {
   color: var(--primaryColor);
   outline-color: var(--darkGrey);
 }
+
+.text-justify {
+  text-align: justify;
+}
