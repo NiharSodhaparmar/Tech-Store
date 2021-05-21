@@ -51,3 +51,7 @@ body {
 .text-justify {
   text-align: justify;
 }
+
+.cart-icon:hover {
+  cursor: pointer;
+}
