@@ -23,7 +23,7 @@ class ProductProvider extends Component {
       featuredProducts: [],
       singleProduct: {},
       loading: true,
-      saerch: "",
+      search: "",
       price: 0,
       min: 0,
       max: 0,
