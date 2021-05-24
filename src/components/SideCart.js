@@ -42,7 +42,7 @@ export default function Sidecart() {
 
 const CartWrapper = styled.div`
   position: fixed;
-  top: 65px;
+  top: 66px;
   right: 0;
   width: 100%;
   height: 100%;
